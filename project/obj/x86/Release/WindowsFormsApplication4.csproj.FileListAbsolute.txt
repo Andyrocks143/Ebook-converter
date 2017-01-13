@@ -1,0 +1,7 @@
+C:\Users\Prashant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Prashant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Prashant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form1.resources
+C:\Users\Prashant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Form2.resources
+C:\Users\Prashant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Prashant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Prashant\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Release\GenerateResource.write.1.tlog

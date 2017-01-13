@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:svg="http://www.w3.org/2000/svg" version="2.0" unique-identifier="<<px>>">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title><<Title>></dc:title>
+<dc:creator><<Author>></dc:creator>
+<dc:publisher><<Publisher>></dc:publisher>
+<dc:date><<date>></dc:date>
+<dc:rights>All Rights Reserved.</dc:rights>
+<dc:identifier id="<<px>>"><<px>></dc:identifier>
+<dc:language>en</dc:language>
+<dc:format><<xxx pages>></dc:format>
+<dc:type>Text</dc:type>
+<meta name="cover" content="cover-image"/>
+<meta name="srp-usd" content=""/>
+</metadata>
+<manifest>
+<item id="stylesheet" href="html/<<stylesheet>>" media-type="text/css"/>
+<<<item id="^^id^^" href="html/ListChapter" media-type="application/xhtml+xml"/>>>
+</manifest>   
+<spine toc="ncx">
+<<<itemref idref="ListSpine" />>>
+</spine>
+<guide>
+<reference type="text" title="Title" href="html/<<Chapterone>>"/>
+<reference type="toc" title="Contents" href="html/<<TOC>>"/>
+</guide>
+</package>
